@@ -1,4 +1,9 @@
+import Food from "./Food";
 function Menu(){
-    return
+    return(
+        <div>
+            <Food />
+        </div>
+    )
 }
 export default Menu;

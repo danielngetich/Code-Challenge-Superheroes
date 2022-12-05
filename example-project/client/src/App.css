@@ -4,6 +4,7 @@ body {
   background-image: url("./background.jpg");
   color: yellowgreen;
   background-size: cover;
+  position: absolute;
 }
 
 .App-logo {
