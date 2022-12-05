@@ -1,6 +1,9 @@
-#root {
+body {
   text-align: center;
   background-color:yellow;
+  background-image: url("./background.jpg");
+  color: yellowgreen;
+  background-size: cover;
 }
 
 .App-logo {
