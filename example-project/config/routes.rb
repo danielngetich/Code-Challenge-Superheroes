@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :customers
+  resources :menus
   get '/hello', to: 'application#hello_world'
 
   get '*path',
